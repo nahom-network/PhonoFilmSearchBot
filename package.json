@@ -22,8 +22,6 @@
     "better-sqlite3": "^12.2.0",
     "dotenv": "^17.2.2",
     "drizzle-orm": "^0.44.5",
-    "sqlite": "^5.1.1",
-    "sqlite3": "^5.1.7",
     "telegraf": "^4.16.3"
   },
   "devDependencies": {
